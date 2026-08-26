@@ -2,7 +2,6 @@ class Solution {
 public:
     int threeSumClosest(vector<int>& nums, int target) {
         int n=nums.size();
-        int bestSum =0;
         int closestSum = nums[0] + nums[1] + nums[2]; 
 
         vector<vector<int>>ans;
