@@ -15,6 +15,7 @@ Welcome to Ultimate DSA sheet.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0069-sqrtx/) | Easy |
 | [0415-add-strings](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0415-add-strings/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -28,4 +29,12 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0238-product-of-array-except-self/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0069-sqrtx/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
