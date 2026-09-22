@@ -25,6 +25,7 @@ Welcome to Ultimate DSA sheet.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0001-two-sum/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/RahulKumar-018/DSA-_OS/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Prefix Sum
@@ -44,4 +45,8 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2643-row-with-maximum-ones](https://github.com/RahulKumar-018/DSA-_OS/tree/main/2643-row-with-maximum-ones/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
