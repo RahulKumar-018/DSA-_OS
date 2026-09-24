@@ -18,6 +18,7 @@ Welcome to Ultimate DSA sheet.
 | [0069-sqrtx](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0069-sqrtx/) | Easy |
 | [0367-valid-perfect-square](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0367-valid-perfect-square/) | Easy |
 | [0415-add-strings](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0415-add-strings/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RahulKumar-018/DSA-_OS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ Welcome to Ultimate DSA sheet.
 | [1901-find-a-peak-element-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1929-concatenation-of-array](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1929-concatenation-of-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/RahulKumar-018/DSA-_OS/tree/main/2643-row-with-maximum-ones/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RahulKumar-018/DSA-_OS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
