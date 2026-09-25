@@ -6,6 +6,7 @@ Welcome to Ultimate DSA sheet.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0027-remove-element/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0001-two-sum/) | Easy |
+| [0027-remove-element](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0027-remove-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1901-find-a-peak-element-ii/) | Medium |
