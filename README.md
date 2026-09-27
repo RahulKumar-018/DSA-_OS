@@ -15,6 +15,7 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0125-valid-palindrome/) | Easy |
+| [0205-isomorphic-strings](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0392-is-subsequence/) | Easy |
 | [0415-add-strings](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0415-add-strings/) | Easy |
@@ -68,6 +69,7 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0001-two-sum/) | Easy |
+| [0205-isomorphic-strings](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0242-valid-anagram/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
