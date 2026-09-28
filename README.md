@@ -21,6 +21,7 @@ Welcome to Ultimate DSA sheet.
 | [0415-add-strings](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0415-add-strings/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0415-add-strings/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1929-concatenation-of-array](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1929-concatenation-of-array/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -87,4 +89,8 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0242-valid-anagram/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 <!---LeetCode Topics End-->
