@@ -22,6 +22,7 @@ Welcome to Ultimate DSA sheet.
 | [0680-valid-palindrome-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -29,6 +30,7 @@ Welcome to Ultimate DSA sheet.
 | [0069-sqrtx](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0069-sqrtx/) | Easy |
 | [0367-valid-perfect-square](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0367-valid-perfect-square/) | Easy |
 | [0415-add-strings](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0415-add-strings/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RahulKumar-018/DSA-_OS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -82,6 +84,7 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
