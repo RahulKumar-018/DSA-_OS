@@ -15,6 +15,7 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0014-longest-common-prefix](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0242-valid-anagram/) | Easy |
@@ -43,6 +44,7 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0027-remove-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -108,4 +110,8 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
