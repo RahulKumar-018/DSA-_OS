@@ -21,6 +21,7 @@ Welcome to Ultimate DSA sheet.
 | [0242-valid-anagram](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0392-is-subsequence/) | Easy |
 | [0415-add-strings](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0415-add-strings/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -80,6 +81,7 @@ Welcome to Ultimate DSA sheet.
 | [0003-longest-substring-without-repeating-characters](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0205-isomorphic-strings](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +117,16 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0014-longest-common-prefix/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
