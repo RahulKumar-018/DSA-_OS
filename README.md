@@ -15,6 +15,7 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0205-isomorphic-strings/) | Easy |
