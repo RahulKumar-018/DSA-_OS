@@ -34,6 +34,7 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0013-roman-to-integer/) | Easy |
+| [0050-powx-n](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0069-sqrtx/) | Easy |
 | [0367-valid-perfect-square](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0367-valid-perfect-square/) | Easy |
 | [0415-add-strings](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0415-add-strings/) | Easy |
@@ -136,4 +137,8 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
