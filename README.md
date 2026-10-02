@@ -39,6 +39,7 @@ Welcome to Ultimate DSA sheet.
 | [0367-valid-perfect-square](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0367-valid-perfect-square/) | Easy |
 | [0415-add-strings](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RahulKumar-018/DSA-_OS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Simulation
@@ -103,6 +104,7 @@ Welcome to Ultimate DSA sheet.
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,4 +150,5 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->
