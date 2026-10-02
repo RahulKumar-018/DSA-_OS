@@ -38,6 +38,7 @@ Welcome to Ultimate DSA sheet.
 | [0069-sqrtx](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0069-sqrtx/) | Easy |
 | [0367-valid-perfect-square](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0367-valid-perfect-square/) | Easy |
 | [0415-add-strings](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0415-add-strings/) | Easy |
+| [0509-fibonacci-number](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0509-fibonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RahulKumar-018/DSA-_OS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Simulation
@@ -101,6 +102,7 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0392-is-subsequence/) | Easy |
+| [0509-fibonacci-number](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0509-fibonacci-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,4 +143,9 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0050-powx-n/) | Medium |
+| [0509-fibonacci-number](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
