@@ -24,6 +24,7 @@ Welcome to Ultimate DSA sheet.
 | [0392-is-subsequence](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0392-is-subsequence/) | Easy |
 | [0415-add-strings](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0415-add-strings/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -98,6 +99,7 @@ Welcome to Ultimate DSA sheet.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Dynamic Programming
@@ -105,6 +107,7 @@ Welcome to Ultimate DSA sheet.
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0509-fibonacci-number/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -114,12 +117,14 @@ Welcome to Ultimate DSA sheet.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Sliding Window
