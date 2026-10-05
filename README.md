@@ -26,6 +26,7 @@ Welcome to Ultimate DSA sheet.
 | [0451-sort-characters-by-frequency](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0856-score-of-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -118,6 +119,7 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -125,6 +127,7 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Sliding Window
