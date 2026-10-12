@@ -40,6 +40,7 @@ Welcome to Ultimate DSA sheet.
 | [0013-roman-to-integer](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0069-sqrtx/) | Easy |
+| [0231-power-of-two](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0231-power-of-two/) | Easy |
 | [0367-valid-perfect-square](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0367-valid-perfect-square/) | Easy |
 | [0415-add-strings](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0509-fibonacci-number/) | Easy |
@@ -164,6 +165,7 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0050-powx-n/) | Medium |
+| [0231-power-of-two](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -178,4 +180,5 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0078-subsets/) | Medium |
+| [0231-power-of-two](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
