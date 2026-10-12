@@ -8,6 +8,7 @@ Welcome to Ultimate DSA sheet.
 | ------- | ------- |
 | [0027-remove-element](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -21,6 +22,7 @@ Welcome to Ultimate DSA sheet.
 | [0125-valid-palindrome](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0392-is-subsequence/) | Easy |
 | [0415-add-strings](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0415-add-strings/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0451-sort-characters-by-frequency/) | Medium |
