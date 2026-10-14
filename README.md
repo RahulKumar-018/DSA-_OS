@@ -19,6 +19,7 @@ Welcome to Ultimate DSA sheet.
 | [0008-string-to-integer-atoi](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0242-valid-anagram/) | Easy |
@@ -127,6 +128,7 @@ Welcome to Ultimate DSA sheet.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -137,6 +139,7 @@ Welcome to Ultimate DSA sheet.
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
