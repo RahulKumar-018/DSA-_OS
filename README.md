@@ -65,6 +65,7 @@ Welcome to Ultimate DSA sheet.
 | [0078-subsets](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0078-subsets/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1929-concatenation-of-array](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1929-concatenation-of-array/) | Easy |
@@ -117,6 +118,7 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0392-is-subsequence/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -186,4 +188,12 @@ Welcome to Ultimate DSA sheet.
 | ------- | ------- |
 | [0078-subsets](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0078-subsets/) | Medium |
 | [0231-power-of-two](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0231-power-of-two/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
