@@ -66,6 +66,7 @@ Welcome to Ultimate DSA sheet.
 | [0238-product-of-array-except-self](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1929-concatenation-of-array](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1929-concatenation-of-array/) | Easy |
@@ -81,6 +82,7 @@ Welcome to Ultimate DSA sheet.
 | [0069-sqrtx](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0069-sqrtx/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0367-valid-perfect-square](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0367-valid-perfect-square/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Newton's Method
