@@ -63,6 +63,7 @@ Welcome to Ultimate DSA sheet.
 | [0014-longest-common-prefix](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0027-remove-element/) | Easy |
 | [0039-combination-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0078-subsets/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -186,6 +187,7 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
