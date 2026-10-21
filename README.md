@@ -65,6 +65,7 @@ Welcome to Ultimate DSA sheet.
 | [0039-combination-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0090-subsets-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -189,10 +190,12 @@ Welcome to Ultimate DSA sheet.
 | [0039-combination-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0090-subsets-ii/) | Medium |
 | [0231-power-of-two](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0231-power-of-two/) | Easy |
 ## Knapsack Problem
 | Problem Name | Difficulty |
