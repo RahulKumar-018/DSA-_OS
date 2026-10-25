@@ -65,6 +65,7 @@ Welcome to Ultimate DSA sheet.
 | [0027-remove-element](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0027-remove-element/) | Easy |
 | [0039-combination-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0040-combination-sum-ii/) | Medium |
+| [0051-n-queens](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Hard/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0216-combination-sum-iii/) | Medium |
@@ -193,6 +194,7 @@ Welcome to Ultimate DSA sheet.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0040-combination-sum-ii/) | Medium |
+| [0051-n-queens](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Hard/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0216-combination-sum-iii/) | Medium |
@@ -210,4 +212,8 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Hard/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
