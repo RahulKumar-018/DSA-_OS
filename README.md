@@ -21,6 +21,7 @@ Welcome to Ultimate DSA sheet.
 | [0014-longest-common-prefix](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0242-valid-anagram/) | Easy |
@@ -126,6 +127,7 @@ Welcome to Ultimate DSA sheet.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0392-is-subsequence](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0509-fibonacci-number/) | Easy |
@@ -151,6 +153,7 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -192,6 +195,7 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Hard/0051-n-queens/) | Hard |
