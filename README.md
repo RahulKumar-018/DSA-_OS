@@ -23,6 +23,7 @@ Welcome to Ultimate DSA sheet.
 | [0020-valid-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0131-palindrome-partitioning/) | Medium |
 | [0205-isomorphic-strings](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0344-reverse-string/) | Easy |
@@ -128,6 +129,7 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0131-palindrome-partitioning/) | Medium |
 | [0392-is-subsequence](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0509-fibonacci-number/) | Easy |
@@ -201,6 +203,7 @@ Welcome to Ultimate DSA sheet.
 | [0051-n-queens](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Hard/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0216-combination-sum-iii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
