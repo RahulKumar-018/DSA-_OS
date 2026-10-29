@@ -65,6 +65,7 @@ Welcome to Ultimate DSA sheet.
 | [0001-two-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0027-remove-element/) | Easy |
+| [0037-sudoku-solver](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Hard/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Hard/0051-n-queens/) | Hard |
@@ -100,6 +101,7 @@ Welcome to Ultimate DSA sheet.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Hard/0037-sudoku-solver/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/RahulKumar-018/DSA-_OS/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -110,6 +112,7 @@ Welcome to Ultimate DSA sheet.
 | [0003-longest-substring-without-repeating-characters](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0037-sudoku-solver](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Hard/0037-sudoku-solver/) | Hard |
 | [0205-isomorphic-strings](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -198,6 +201,7 @@ Welcome to Ultimate DSA sheet.
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Hard/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Hard/0051-n-queens/) | Hard |
@@ -222,5 +226,10 @@ Welcome to Ultimate DSA sheet.
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Hard/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Hard/0051-n-queens/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Hard/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
