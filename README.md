@@ -22,6 +22,7 @@ Welcome to Ultimate DSA sheet.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
+| [0079-word-search](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0131-palindrome-partitioning/) | Medium |
 | [0205-isomorphic-strings](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0205-isomorphic-strings/) | Easy |
@@ -70,6 +71,7 @@ Welcome to Ultimate DSA sheet.
 | [0040-combination-sum-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Hard/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0216-combination-sum-iii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -102,6 +104,7 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Hard/0037-sudoku-solver/) | Hard |
+| [0079-word-search](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0079-word-search/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/RahulKumar-018/DSA-_OS/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -206,6 +209,7 @@ Welcome to Ultimate DSA sheet.
 | [0040-combination-sum-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Hard/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0216-combination-sum-iii/) | Medium |
@@ -232,4 +236,8 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Hard/0037-sudoku-solver/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
