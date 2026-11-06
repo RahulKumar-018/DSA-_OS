@@ -240,4 +240,8 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0079-word-search/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
