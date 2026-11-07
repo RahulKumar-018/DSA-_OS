@@ -70,6 +70,7 @@ Welcome to Ultimate DSA sheet.
 | [0039-combination-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Hard/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0053-maximum-subarray/) | Medium |
 | [0078-subsets](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0090-subsets-ii/) | Medium |
@@ -122,6 +123,7 @@ Welcome to Ultimate DSA sheet.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0053-maximum-subarray/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -135,6 +137,7 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
+| [0053-maximum-subarray](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0053-maximum-subarray/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0131-palindrome-partitioning/) | Medium |
 | [0392-is-subsequence](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0416-partition-equal-subset-sum/) | Medium |
