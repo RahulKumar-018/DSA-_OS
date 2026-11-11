@@ -6,6 +6,7 @@ Welcome to Ultimate DSA sheet.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0344-reverse-string/) | Easy |
@@ -65,6 +66,7 @@ Welcome to Ultimate DSA sheet.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0014-longest-common-prefix/) | Easy |
+| [0016-3sum-closest](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0027-remove-element/) | Easy |
 | [0037-sudoku-solver](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Hard/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0039-combination-sum/) | Medium |
@@ -147,6 +149,7 @@ Welcome to Ultimate DSA sheet.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0016-3sum-closest/) | Medium |
 | [0242-valid-anagram](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Stack
