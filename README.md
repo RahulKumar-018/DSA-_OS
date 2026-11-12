@@ -45,6 +45,7 @@ Welcome to Ultimate DSA sheet.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0069-sqrtx/) | Easy |
@@ -197,6 +198,7 @@ Welcome to Ultimate DSA sheet.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Easy/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0231-power-of-two/) | Easy |
@@ -250,6 +252,7 @@ Welcome to Ultimate DSA sheet.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Easy/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
