@@ -255,4 +255,5 @@ Welcome to Ultimate DSA sheet.
 | [0002-add-two-numbers](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Easy/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0237-delete-node-in-a-linked-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0328-odd-even-linked-list/) | Medium |
 <!---LeetCode Topics End-->
