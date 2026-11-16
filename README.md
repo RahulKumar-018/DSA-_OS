@@ -83,6 +83,7 @@ Welcome to Ultimate DSA sheet.
 | [0416-partition-equal-subset-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Easy/1672-richest-customer-wealth/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1929-concatenation-of-array](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1929-concatenation-of-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/RahulKumar-018/DSA-_OS/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -110,6 +111,7 @@ Welcome to Ultimate DSA sheet.
 | [0037-sudoku-solver](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Hard/0037-sudoku-solver/) | Hard |
 | [0079-word-search](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0079-word-search/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Easy/1672-richest-customer-wealth/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/RahulKumar-018/DSA-_OS/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Hash Table
