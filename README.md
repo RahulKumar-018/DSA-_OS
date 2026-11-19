@@ -202,6 +202,7 @@ Welcome to Ultimate DSA sheet.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Easy/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0231-power-of-two/) | Easy |
@@ -257,6 +258,7 @@ Welcome to Ultimate DSA sheet.
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Easy/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0328-odd-even-linked-list/) | Medium |
