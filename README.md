@@ -9,6 +9,7 @@ Welcome to Ultimate DSA sheet.
 | [0016-3sum-closest](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0027-remove-element](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0031-next-permutation/) | Medium |
 | [0125-valid-palindrome](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0392-is-subsequence/) | Easy |
@@ -70,6 +71,7 @@ Welcome to Ultimate DSA sheet.
 | [0014-longest-common-prefix](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0014-longest-common-prefix/) | Easy |
 | [0016-3sum-closest](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Medium/0031-next-permutation/) | Medium |
 | [0037-sudoku-solver](https://github.com/RahulKumar-018/DSA-_OS/tree/main/C++/Hard/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/RahulKumar-018/DSA-_OS/tree/main/0040-combination-sum-ii/) | Medium |
